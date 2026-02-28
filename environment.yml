@@ -1,0 +1,13 @@
+name: d200_ps3_py
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - ipykernel
+  - matplotlib
+  - pytorch
+  - pandas
+  - torchvision
+  - jupyter
+  - numpy
+prefix: /Users/lsahar/miniconda3/envs/d200_ps3_py
